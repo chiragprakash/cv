@@ -1,0 +1,105 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.25rem;
+  text-align: center;
+  margin: 0;
+}
+
+h1{
+  font-family: 'Satisfy', cursive;
+  font-size: 6rem;
+  margin: 0;
+}
+
+h2{
+  font-family: 'Noto Serif', serif;
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.75rem;
+  margin: 0;
+}
+
+span{
+  text-decoration: underline;
+}
+
+
+.top-container{
+  color: #FCF8E8;
+  background-color: #94B49F;
+  padding: 300px;
+}
+
+
+.middle-container{
+  color:#231955;
+  background-color: #CEE5D0;
+  padding: 50px;
+}
+
+.profile{
+  padding: 100px 0 200px;
+}
+
+.skill-row{
+  margin: 100px 200px 100px 200px;
+  text-align: left;
+}
+
+.img1{
+  margin-right: 50px;
+  height: 200px;
+  width: 300px;
+  float: left;
+}
+
+.img2{
+  height: 200px;
+  width: 200px;
+  float: right;
+}
+
+.contact-padding{
+  padding-bottom: 50px;
+}
+
+.contact-me{
+  padding-top: 200px;
+  margin: 100px 0;
+}
+
+.bottom-container{
+  background-color: #FCF8E8;
+  padding: 50px;
+}
+
+.footer-link{
+  margin: 70px;
+  color: #ECB390;
+  text-decoration: none;
+}
+
+.footer-link:hover{
+  color : black;
+}
+
+.btn {
+  background: #3baaf5;
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 20px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 25px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cfce2;
+  text-decoration: none;
+}
